@@ -28,3 +28,11 @@ features:
     title: Subsonic
     details: 基于Subsonic音乐服务
 ---
+
+### 平台支持
+
+Windows (开发中)
+
+MacOS (暂未测试)
+
+Linux GUI (暂未测试)
