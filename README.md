@@ -1,4 +1,5 @@
 # 星鱼音乐播放器 StarfishPlayer
+![preview1.png](public/preview1.png)
 本项目是个人兴趣爱好开发的基础音乐播放器（非专业级别，勿喷），期望实现基本的音乐播放器功能和基础的使用体验，目前支持Subsonic和Navidrome两种音乐服务（subsonic api）的播放
 
 项目基于Electron（学习中），前端采用Vue
