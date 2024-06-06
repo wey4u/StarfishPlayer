@@ -8,6 +8,10 @@
 
 如您在使用过程中遇到的任何问题，欢迎提issue（目前唯一途径）
 ![preview1.png](public/preview1.png)
+（基本播放界面）
+
+![preview1.png](public/preview3.png)
+（2024/06/05）新增全屏播放界面
 
 ## 兼容音乐服务
 - [x] Subsonic (适配中)
@@ -26,6 +30,9 @@
 - [x] 基本播放
 - [X] 歌单/歌曲/专辑/艺人基本操作
 - [ ] 桌面歌词
+
+## 支持和引用
+歌词对接，兼容 [LrcApi](https://github.com/HisAtri/LrcApi)
 
 ## 版本
  - 暂无可提供版本（6月中旬推出 0.1.9 alpha 版本）
