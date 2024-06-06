@@ -13,14 +13,13 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Examples',
+        text: '星鱼',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: '更新日志', link: '/releases' },
+          { text: '开发日常', link: '/daily' }
         ]
       }
     ],
-
     socialLinks: [
       { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
     ]
