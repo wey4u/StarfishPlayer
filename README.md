@@ -7,10 +7,8 @@
 项目基于Electron（学习中），前端采用Vue
 
 如您在使用过程中遇到的任何问题，欢迎提issue（目前唯一途径）
-![preview1.png](public/preview1.png)
-![preview2.png](public/preview2.png)
-![preview3.png](public/preview3.png)
-![preview3.png](public/preview4.png)
+
+<img src="public/preview1.png" width="" height="">
 
 ## 兼容音乐服务
 - [x] Subsonic (适配中)
@@ -39,3 +37,10 @@
 
 ## 版本
  - 0.2.1 (beta/此版本可能会存在很多问题)
+
+
+## 预览
+<img src="public/preview1.png" width="" height="">
+<img src="public/preview2.png" width="" height="">
+<img src="public/preview3.png" width="" height="">
+<img src="public/preview4.png" width="" height="">
