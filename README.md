@@ -33,5 +33,8 @@
 ## 支持和引用
 歌词对接，兼容 [LrcApi](https://github.com/HisAtri/LrcApi)
 
+右键托盘菜单 - 设置 配置歌词接口,随后重启播放器
+![lyric_setting.png](public/lyric_setting.png)
+
 ## 版本
  - 0.2.1 (beta/此版本可能会存在很多问题)
