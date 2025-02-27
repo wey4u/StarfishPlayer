@@ -8,10 +8,9 @@
 
 如您在使用过程中遇到的任何问题，欢迎提issue（目前唯一途径）
 ![preview1.png](public/preview1.png)
-（基本播放界面）
-
-![preview1.png](public/preview3.png)
-（2024/06/05）新增全屏播放界面
+![preview2.png](public/preview2.png)
+![preview3.png](public/preview3.png)
+![preview3.png](public/preview4.png)
 
 ## 兼容音乐服务
 - [x] Subsonic (适配中)
