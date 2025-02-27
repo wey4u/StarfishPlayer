@@ -35,4 +35,4 @@
 歌词对接，兼容 [LrcApi](https://github.com/HisAtri/LrcApi)
 
 ## 版本
- - 暂无可提供版本（6月中旬推出 0.1.9 alpha 版本）
+ - 0.2.1 (beta/此版本可能会存在很多问题)
